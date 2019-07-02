@@ -9,7 +9,7 @@ dependencies:
   - scipy
   - ipympl
   - voila=0.1.3
-  - ipyleaflet
+  - ipyleaflet>=0.10.9
   - ipympl
   - xleaflet=0.7.0
   - xeus-cling=0.5.1
