@@ -12,5 +12,6 @@ dependencies:
   - ipyleaflet>=0.10.9
   - ipympl
   - reportlab>=3.5.23
+  - svglib=>0.9.1
   - xleaflet=0.7.0
   - xeus-cling=0.5.1
