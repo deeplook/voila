@@ -15,3 +15,5 @@ dependencies:
   - svglib=>0.9.1
   - xleaflet=0.7.0
   - xeus-cling=0.5.1
+  - pip:
+    - "-r requirements.txt"
