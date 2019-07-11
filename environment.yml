@@ -4,6 +4,7 @@ channels:
 dependencies:
   - geojson
   - geopy
+  - geopandas
   - ipyvolume
   - bqplot
   - scipy
