@@ -5,6 +5,7 @@ dependencies:
   - geojson
   - geopy
   - geopandas
+  - fiona
   - ipyvolume
   - bqplot
   - scipy
