@@ -1,3 +1,4 @@
+geohash
 geopandas
 fiona
 osm2geojson
