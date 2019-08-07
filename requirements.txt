@@ -1,4 +1,5 @@
 python-geohash
 geopandas
 fiona
+openlocationcode
 osm2geojson
